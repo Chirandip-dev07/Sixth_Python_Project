@@ -1,1 +1,1 @@
-# Sixth_Python_Project
+# The TIC-TAC-TOE game in python terminal
